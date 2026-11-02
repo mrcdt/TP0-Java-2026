@@ -7,6 +7,8 @@ import java.util.Scanner;
 /**
  *
  * @author marin
+ * @group BDML2
+ * @date 02/11/2026
  */
 public class TP0 {
 
